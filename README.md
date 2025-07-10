@@ -8,7 +8,7 @@ A secure and full-stack Password Manager built using the MERN stack — React fo
 
 ## 📦 Tech Stack
 
-- **Frontend**: React, Axios, TailwindCSS / CSS
+- **Frontend**: React, TailwindCSS / CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (Mongoose)
 - **Security**: bcrypt for password hashing, JWT for auth
